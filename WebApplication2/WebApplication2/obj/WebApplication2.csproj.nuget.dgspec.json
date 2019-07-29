@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FlorianHänny\\source\\repos\\mytesty2\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {}
+    "C:\\Users\\FlorianHänny\\Source\\Repos\\mytesty2\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FlorianHänny\\source\\repos\\mytesty2\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {
+    "C:\\Users\\FlorianHänny\\Source\\Repos\\mytesty2\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FlorianHänny\\source\\repos\\mytesty2\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+        "projectUniqueName": "C:\\Users\\FlorianHänny\\Source\\Repos\\mytesty2\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
         "projectName": "WebApplication2",
-        "projectPath": "C:\\Users\\FlorianHänny\\source\\repos\\mytesty2\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+        "projectPath": "C:\\Users\\FlorianHänny\\Source\\Repos\\mytesty2\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
         "packagesPath": "C:\\Users\\FlorianHänny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FlorianHänny\\source\\repos\\mytesty2\\WebApplication2\\WebApplication2\\obj\\",
+        "outputPath": "C:\\Users\\FlorianHänny\\Source\\Repos\\mytesty2\\WebApplication2\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
